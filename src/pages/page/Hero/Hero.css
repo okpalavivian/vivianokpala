@@ -1,0 +1,12 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+.hero-l {
+  padding: 2rem;
+  padding-top: 1.5rem;
+}
+.hero-r {
+  background: powderblue;
+  width: 30rem;
+}
